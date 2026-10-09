@@ -1,6 +1,6 @@
 # 🚀 Space Conqueror (Arcade Shooter)
 
-**🎮[PLAY IN BROWSER](ССЫЛКА_БУДЕТ_ЗДЕСЬ)**
+**🎮[PLAY IN BROWSER](https://qa-gamedev.github.io/space-conqueror-shooter/)**
 
 ## 📖 О проекте
 Вертикальный шутер с элементами RPG и глубокой системой прогрессии.
